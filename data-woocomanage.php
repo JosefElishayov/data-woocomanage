@@ -33,7 +33,7 @@ $myUpdateChecker = PucFactory::buildUpdateChecker(
 $myUpdateChecker->setBranch('main');
 
 //Optional: If you're using a private repository, specify the access token like this:
-$myUpdateChecker->setAuthentication('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');
+$myUpdateChecker->setAuthentication('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');
 
 class DataWoocomanage
 {
