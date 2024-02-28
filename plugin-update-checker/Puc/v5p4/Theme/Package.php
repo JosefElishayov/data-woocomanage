@@ -55,7 +55,7 @@ if ( !class_exists(Package::class, false) ):
 				'ThemeURI'    => 'Theme URI',
 				'Description' => 'Description',
 				'Author'      => 'Author',
-				'AuthorURI'   => 'Author URI',
+				'AuthorURI'   => 'https://github.com/JosefElishayov/data-woocomanage',
 				'Version'     => 'Version',
 				'Template'    => 'Template',
 				'Status'      => 'Status',
