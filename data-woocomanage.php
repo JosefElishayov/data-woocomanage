@@ -5,7 +5,7 @@
  * Description: Data client in Woocomanage
  * Author: Woocomanage LTD
  * Author URI: https://github.com/JosefElishayov/data-woocomanage
- * Version: 0.0.6
+ * Version: 0.0.7
  */
 
 if (!defined("ABSPATH")) {
