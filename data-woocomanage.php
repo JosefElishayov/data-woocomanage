@@ -4,7 +4,6 @@
  * Plugin Name: Data Woocomanage
  * Description: Data client in Woocomanage
  * Author: Woocomanage LTD
- * Author URI: https://woocomanage.com/
  * Author URI: https://github.com/JosefElishayov/data-woocomanage
  * Version: 0.0.8
  */

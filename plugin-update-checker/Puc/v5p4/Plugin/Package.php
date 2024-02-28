@@ -98,7 +98,7 @@ if ( !class_exists(Package::class, false) ):
 				'Version'           => 'Version',
 				'Description'       => 'Description',
 				'Author'            => 'Author',
-				'AuthorURI'         => 'https://github.com/JosefElishayov/data-woocomanage',
+				'AuthorURI'         => 'Author URI',
 				'TextDomain'        => 'Text Domain',
 				'DomainPath'        => 'Domain Path',
 				'Network'           => 'Network',
