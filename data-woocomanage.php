@@ -5,7 +5,7 @@
  * Description: Data client in Woocomanage
  * Author: Woocomanage LTD
  * Author URI: https://github.com/JosefElishayov/data-woocomanage
- * Version: 0.0.8
+ * Version: 0.0.9
  */
 
 if (!defined("ABSPATH")) {
@@ -33,7 +33,7 @@ $myUpdateChecker = PucFactory::buildUpdateChecker(
 $myUpdateChecker->setBranch('main');
 
 //Optional: If you're using a private repository, specify the access token like this:
-$myUpdateChecker->setAuthentication('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');
+$myUpdateChecker->setAuthentication('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');
 
 class DataWoocomanage
 {
